@@ -1,0 +1,2 @@
+# Kwaluseni-campus-82.56kW-solar-PV-grid-tied-Perfomance-Optimization-Machine-learning-Analysis
+This repository hosts Python codes for analyzing data from the University of Eswatini’s 82.56 kW solar PV system at Kwaluseni campus. Scripts process time-series data (energy, irradiance, temperature) from the SMA Data Manager M, perform quality control, and apply machine learning (LSTM, Prophet) for energy prediction and optimization. 
