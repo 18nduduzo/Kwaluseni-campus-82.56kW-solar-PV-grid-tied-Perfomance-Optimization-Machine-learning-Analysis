@@ -54,4 +54,4 @@ Feel free to fork this repository, submit issues, or create pull requests for im
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or collaboration, contact [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration, contact [nduduzohlophe84@gmail.com](mailto:your-email@example.com).
